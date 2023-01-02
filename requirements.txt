@@ -1,0 +1,14 @@
+flask
+revChatGPT
+google-api-core
+google-api-python-client
+google-auth
+google-auth-httplib2
+google-cloud-bigquery
+google-cloud-core
+google-crc32c
+google-resumable-media
+googleapis-common-protos
+grpcio
+h5py
+httplib2
